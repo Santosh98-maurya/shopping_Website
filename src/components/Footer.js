@@ -129,13 +129,13 @@ import {
         <Right>
           <Title>Contact</Title>
           <ContactItem>
-            <Room style={{marginRight:"10px"}}/> Marathali , South Banglore 560041
+            <Room style={{marginRight:"10px"}}/> Najafgarh , New Delhi 110043
           </ContactItem>
           <ContactItem>
-            <Phone style={{marginRight:"10px"}}/> +91 8102756475
+            <Phone style={{marginRight:"10px"}}/> +91 9315347144
           </ContactItem>
           <ContactItem>
-            <MailOutline style={{marginRight:"10px"}} /> contact@aditya.developer
+            <MailOutline style={{marginRight:"10px"}} /> contact@santosh.developer
           </ContactItem>
           <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
         </Right>
