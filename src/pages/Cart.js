@@ -281,7 +281,7 @@ const Cart = () => {
               <SummaryItemPrice>₹ {cart.total}</SummaryItemPrice>
             </SummaryItem>
             <StripeCheckout
-              name="Aditya Shop"
+              name="Santosh Maurya"
               image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nDvHnMiULPg-WQjs_zlPvlH1HduqQHAh3w&usqp=CAU"
               billingAddress
               shippingAddress
